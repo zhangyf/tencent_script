@@ -11,4 +11,4 @@
 ## Python脚本
 
  - index.py 某个对象上传到bucket后触发，从A用户的a bucket下载文件，并上传到B用户的b bucket
-
+ - cos_client.py 截取自COS Python SDK，增加了object-lock相关的代码
